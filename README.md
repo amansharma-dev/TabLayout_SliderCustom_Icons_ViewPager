@@ -51,6 +51,5 @@ Remember to use **setupViewPager()** before **setupTabIcons()** otherwise you wi
 
 # Support :+1:  
 [Instagram](https://www.instagram.com/amansharma.dev/)  
-[Twitter](https://twitter.com/thekod25)
 
 ### Thank You!
