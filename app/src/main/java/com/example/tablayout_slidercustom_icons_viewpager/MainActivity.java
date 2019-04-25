@@ -49,7 +49,6 @@ public class MainActivity extends AppCompatActivity {
         tabLayout.getTabAt(3).setIcon(tabIcons[3]);
         tabLayout.getTabAt(4).setIcon(tabIcons[4]);
         tabLayout.getTabAt(5).setIcon(tabIcons[5]);
-
     }
 
     private void setupViewPager(){
