@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TabLayout_SliderCustom_Icons_ViewPager</string>
+
+    <string name="text_fragOne">Fragment One</string>
+    <string name="text_fragTwo">Fragment Two</string>
+    <string name="text_fragThree">Fragment Three</string>
+    <string name="text_fragFour">Fragment Four</string>
+    <string name="text_fragFive">Fragment Five</string>
+    <string name="text_fragSix">Fragment Six</string>
+</resources>
